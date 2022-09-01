@@ -1,2 +1,2 @@
 #!/bin/bash
-rm *.~/0x00-shell-basics 
+rm -r /0x00-shell-basics/*.~
